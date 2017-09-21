@@ -14,5 +14,5 @@ For Normal model, you may refer to [this note](http://janroman.dhis.org/finance/
 
 ### For advanced works on implied volatility (e.g., final project)
 You may refer to
-* BSM:  [Jackel 2016](jaeckel.16mb.com/LetsBeRational.pdf)
+* BSM:  [Jackel 2016](jaeckel.16mb.com/LetsBeRational.pdf), [Stefanica and Radoicic 2017](https://ssrn.com/abstract_id=2908494)
 * Normal: [Choi et al 2007](http://jaehyukchoi.com/research/normvol/index.html),  [Le Floc'h 2016](https://ssrn.com/abstract=2420757), [some discussion](https://www.clarusft.com/analytic-implied-basis-point-volatility/)
